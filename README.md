@@ -42,3 +42,12 @@
     * 2921번 도미노
     * 2587번 대표값2 <br>
     [백준 링크](https://www.acmicpc.net/group/practice/471/20)
+
+--------
+
+5. [알고리즘 스터디 5주차 문제](https://github.com/CNU-ANT/2018-Algorithm_Study/tree/master/180516) (2018.05.16)
+    * 13241번 최소공배수
+    * 1357번 뒤집힌덧셈
+    * 2749번 피보나치 수3
+    * 14723번 이산수학 과제 <br>
+    [백준 링크](https://www.acmicpc.net/group/practice/471/22)
